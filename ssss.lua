@@ -128,7 +128,7 @@ end
 --  WINDOW
 -- ═══════════════════════════════════
 local Window = WindUI:CreateWindow({
-    Title       = "CoiledTom Hub",
+    Title       = "CoiledTom Hub.",
     Icon        = "solar:planet-bold",
     Author      = "by CoiledTom",
     Folder      = "CoiledTomHub",
